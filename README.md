@@ -9,6 +9,7 @@ internos que resolvem problemas reais do dia a dia.
 ## 🚀 O que estou construindo
 
 **Sistema de chamados para a TI** (projeto interno, código privado)
+
 Desenvolvi e implantei do zero um help desk em produção na empresa onde trabalho:
 - abertura automática de chamados por e-mail (Microsoft 365 / Microsoft Graph API)
 - respostas e notificações por e-mail com fila de envio e novas tentativas
@@ -17,14 +18,21 @@ Desenvolvi e implantei do zero um help desk em produção na empresa onde trabal
 - login com conta Microsoft (Entra ID) e deploy no Azure App Service
 - mais de 40 testes automatizados
 
+**Projetos públicos**
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [calculadora-imc](https://github.com/thomaaasr/calculadora-imc) | Calculadora de IMC em versão web (API) e desktop, com instalador para Windows | Node.js, Express, Electron |
+| [math-api](https://github.com/thomaaasr/math-api) | API REST com validação de entrada, testes automatizados e documentação interativa | NestJS, TypeScript, Swagger |
+
 ## 🛠️ Tecnologias
 
-`JavaScript` `Node.js` `Python` `SQLite` `Azure` `Microsoft Graph` `Git` `NestJS (estudando)`
+`JavaScript` `TypeScript` `Node.js` `Express` `NestJS` `Electron` `Python` `SQLite` `Jest` `Swagger` `Azure` `Microsoft Graph` `Git`
 
 ## 📚 Estudando agora
 
-- Desenvolvimento de APIs com Node.js e NestJS
-- Boas práticas: testes automatizados, versionamento com Git, deploy na nuvem
+- Boas práticas de APIs: testes, documentação e atualização segura de dependências
+- Próximo passo: migrar a math-api para o NestJS 12
 
 ## 📫 Contato
 
