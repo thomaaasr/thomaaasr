@@ -23,7 +23,7 @@ Desenvolvi e implantei do zero um help desk em produção na empresa onde trabal
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [calculadora-imc](https://github.com/thomaaasr/calculadora-imc) | Calculadora de IMC em versão web (API) e desktop, com instalador para Windows | Node.js, Express, Electron |
-| [math-api](https://github.com/thomaaasr/math-api) | API REST com validação de entrada, testes automatizados e documentação interativa | NestJS, TypeScript, Swagger |
+| [math-api](https://github.com/thomaaasr/math-api) | API REST com validação de entrada, testes automatizados e documentação interativa | NestJS, TypeScript, Vitest, Swagger |
 
 ## 🛠️ Tecnologias
 
@@ -32,7 +32,7 @@ Desenvolvi e implantei do zero um help desk em produção na empresa onde trabal
 ## 📚 Estudando agora
 
 - Boas práticas de APIs: testes, documentação e atualização segura de dependências
-- Próximo passo: migrar a math-api para o NestJS 12
+- Migração de versões principais: levei a math-api do NestJS 11 para o 12 (ESM, Vitest e TypeScript 6)
 
 ## 📫 Contato
 
