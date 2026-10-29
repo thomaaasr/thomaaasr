@@ -22,7 +22,7 @@ Desenvolvi e implantei do zero um help desk em produção na empresa onde trabal
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [inventario-ti-api](https://github.com/thomaaasr/inventario-ti-api) | API de inventário de equipamentos de TI com banco de dados, validação, testes e documentação interativa | NestJS, TypeORM, SQLite, Vitest, Swagger |
+| [inventario-ti-api](https://github.com/thomaaasr/inventario-ti-api) | API de inventário de equipamentos de TI com empréstimos, regras de negócio, migrações de banco, testes unitários e de ponta a ponta, e documentação interativa | NestJS, TypeORM, SQLite, Vitest, Swagger |
 | [calculadora-imc](https://github.com/thomaaasr/calculadora-imc) | Calculadora de IMC em versão web (API) e desktop, com instalador para Windows | Node.js, Express, Electron |
 | [math-api](https://github.com/thomaaasr/math-api) | API REST com validação de entrada, testes automatizados e documentação interativa | NestJS, TypeScript, Vitest, Swagger |
 
@@ -32,8 +32,8 @@ Desenvolvi e implantei do zero um help desk em produção na empresa onde trabal
 
 ## 📚 Estudando agora
 
-- Bancos de dados com ORM (TypeORM): entidades, repositórios e relações entre tabelas
-- Testes automatizados com dublês (mocks) para testar regras sem banco de dados
+- Bancos de dados com ORM (TypeORM): relações entre tabelas, transações e migrações versionadas no Git
+- Testes em camadas: unitários com dublês (mocks) e de ponta a ponta (e2e) com banco em memória
 - Migração de versões principais: levei a math-api do NestJS 11 para o 12 (ESM, Vitest e TypeScript 6)
 
 ## 📫 Contato
