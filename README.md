@@ -23,13 +23,13 @@ Desenvolvi e implantei do zero um help desk em produção na empresa onde trabal
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [inventario-ti-api](https://github.com/thomaaasr/inventario-ti-api) | API de inventário de TI com autenticação JWT, empréstimos, filtros e paginação, migrações de banco, 38 testes automatizados e deploy contínuo. **[Demonstração online](https://inventario-ti-api-car8.onrender.com/docs)** | NestJS, TypeORM, SQLite, Vitest, Swagger, GitHub Actions |
-| [inventario-ti-web](https://github.com/thomaaasr/inventario-ti-web) | Interface web do inventário de TI: login, cadastro, filtros, paginação e empréstimos, consumindo a API acima. **[Demonstração online](https://inventario-ti-web-s2mz.onrender.com)** | React, TypeScript, Vite, GitHub Actions |
+| [inventario-ti-web](https://github.com/thomaaasr/inventario-ti-web) | Interface web do inventário de TI: login, cadastro, filtros, paginação e empréstimos, consumindo a API acima, com 11 testes automatizados e deploy contínuo. **[Demonstração online](https://inventario-ti-web-s2mz.onrender.com)** | React, TypeScript, Vite, Vitest, Testing Library, GitHub Actions |
 | [calculadora-imc](https://github.com/thomaaasr/calculadora-imc) | Calculadora de IMC em versão web (API) e desktop, com instalador para Windows | Node.js, Express, Electron |
 | [math-api](https://github.com/thomaaasr/math-api) | API REST com validação de entrada, testes automatizados e documentação interativa | NestJS, TypeScript, Vitest, Swagger, GitHub Actions |
 
 ## 🛠️ Tecnologias
 
-`JavaScript` `TypeScript` `Node.js` `React` `Vite` `Express` `NestJS` `TypeORM` `Electron` `Python` `SQLite` `JWT` `Vitest` `Swagger` `GitHub Actions` `Azure` `Render` `Microsoft Graph` `Git`
+`JavaScript` `TypeScript` `Node.js` `React` `Vite` `Express` `NestJS` `TypeORM` `Electron` `Python` `SQLite` `JWT` `Vitest` `Testing Library` `Swagger` `GitHub Actions` `Azure` `Render` `Microsoft Graph` `Git`
 
 ## 📚 Estudando agora
 
